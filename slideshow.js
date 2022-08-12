@@ -1,8 +1,8 @@
 'use strict';
 
 const images = [
-    { 'id': '1', 'url':'./img/TEAMOMENSAGEM.gif' },
-    { 'id': '2', 'url':'./img/efdc0883-4e60-4d0f-bfb0-a118fe3078ff.jpg' },
+    { 'id': '1', 'url':'./img/efdc0883-4e60-4d0f-bfb0-a118fe3078ff.jpg' },
+    { 'id': '2', 'url':'./img/TEAMOMENSAGEM.gif' },
     { 'id': '3', 'url':'./img/WhatsApp Image 2020-03-10 at 13.59.43 (1).jpeg' },
     { 'id': '4', 'url':'./img/WhatsApp Image 2020-03-10 at 13.59.43 (2).jpeg' },
     { 'id': '5', 'url':'./img/WhatsApp Image 2020-03-10 at 13.59.43 (3).jpeg' },
